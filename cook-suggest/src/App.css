@@ -1,4 +1,7 @@
-
+.accordion-header {
+  color: black;
+  border: 3px purple;
+}
 
 
 .Sidebar {
